@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WebPageDownloadDemo</string>
+    <string name="go_to_url">Go to URL</string>
+
+    <string name="no_url_found">Please input a valid URL.</string>
+    <string name="no_connection">You are not connected to any internet.</string>
+
+    <string name="write_access_required">Write access is required to display the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="write_permission_not_available">Permission is not available. Requesting Write permission.</string>
+    <string name="write_permission_denied">Write permission request was denied. Please enable it through the App Settings</string>
+    <string name="created_by">Created by Francis Yousef Sanchez Agawin</string>
+
+</resources>
